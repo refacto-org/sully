@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/packages/mixins/melos_mixins_weebi.iml" filepath="$PROJECT_DIR$/packages/mixins/melos_mixins_weebi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/models_base/melos_models_base.iml" filepath="$PROJECT_DIR$/packages/models_base/melos_models_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/models/melos_models_weebi.iml" filepath="$PROJECT_DIR$/packages/models/melos_models_weebi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/services/melos_services_weebi.iml" filepath="$PROJECT_DIR$/packages/services/melos_services_weebi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/shelf_helpers/melos_shelf_helpers.iml" filepath="$PROJECT_DIR$/packages/shelf_helpers/melos_shelf_helpers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sully_api/melos_sully_api.iml" filepath="$PROJECT_DIR$/sully_api/melos_sully_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_sully.iml" filepath="$PROJECT_DIR$/melos_sully.iml" />
+    </modules>
+  </component>
+</project>
